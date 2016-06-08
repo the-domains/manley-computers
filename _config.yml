@@ -1,4 +1,4 @@
-layout_spectrum: 0.7399069380480796
+layout_spectrum: 0.8596122926101089
 typography_spectrum: 0.5955453233327717
 color:
   brandStrength: 0.7046259348280728
@@ -6,9 +6,9 @@ color:
   saturation: 0.3328560800291598
   rhythmicContrast: 0.5087278808932751
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
 name: Manley Computers
