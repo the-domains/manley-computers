@@ -1,4 +1,3 @@
-layout_spectrum: 0.8596122926101089
 typography_spectrum: 0.5955453233327717
 color:
   brandStrength: 0.7046259348280728
@@ -11,5 +10,7 @@ color:
     - '#A1E8D9'
     - '#FF712C'
     - '#695D46'
+layout_spectrum: 0.8596122926101089
 name: Manley Computers
 title: 'PC / MAC / SMB IT '
+description: Don't trust a geek to do a man's job
